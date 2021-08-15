@@ -204,7 +204,7 @@ nav {
 
 .nav-menu {
   float: right;
-  line-height: 32px;
+  line-height: 32%;
   margin-bottom: 0;
   padding-top: 16px;
 }
@@ -222,7 +222,7 @@ nav ul li a {
   position: relative;
   display: block;
   font-size: 14px;
-  color: #999999;
+  color: black;
   font-family: 'Poppins', helvetica;
   font-weight: 500;
   line-height: 16px;
@@ -236,8 +236,8 @@ nav ul li a {
 }
 
 .logo img {
-  width: 100px;
-  height: 50px;
+  width: 5%;
+  height: 5%;
 }
 
 .responsive {
@@ -512,6 +512,7 @@ nav ul li a {
 #contact {
   height: auto;
   width: 100%;
+  background: white;
 }
 
 .contact-details {
@@ -728,7 +729,7 @@ blockquote {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #f7f7f7;
+  background: black;
   padding-top: 20px;
   padding-bottom: 20px;
 }
