@@ -1,4 +1,4 @@
 # srinithabeerelly.github.io
 
 My webpage available 
-@ https://srinithabeerelly.github.io/
+@https://srinithabeerelly.github.io/My-Webpage/
